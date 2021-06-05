@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="id" prefix="op: http://media.facebook.com/op#">
+  <head>
+    <meta charset="utf-8">
+    <link rel="canonical" href="https://www.ryanid.my.id/cara-membuat-artikel-instan-facebook-dengan-blogspot">
+    <meta property="op:markup_version" content="v1.0">
+
+<!-- Mengaktifkan Penyematan Iklan Otomatis -->
+<meta property="fb:use_automatic_ad_placement" content="enable=true ad_density=default">
+  </head>
+  <body>
+    <article>
+      <header>
+
+<!-- JUDUL ATAS ARTIKEL -->
+        <h1>Cara membuat artikel instan facebook dengan blogspot</h1>
+
+
+<!-- Tanggal dan waktu artikel diterbitkan -->
+        <time class="op-published" datetime="2021-06-05T08:04:16+07:00Z">05 June 2021, 08:04 Wib</time>
+
+
+<!-- Tanggal dan waktu artikel di perbaruhi -->
+        <time class="op-modified" dateTime="2021-06-05T08:10:29+07:00Z">05 June 2021, 08:10 Wib</time>
+
+
+<!-- Penulis artikel, default Hanya satu orang -->
+        <address>
+          <a rel="gita" href="https://facebook.com/ryanid.my.id">Jurnalis</a>
+          Belajar mengembangkan sesuatu yang tak pernah kita bayangkan sebelumnya. Itu sangat menyenangkan.
+        </address>
+
+
+        
+<!-- Gambar sampul yang muncul di antara artikel --> 
+        <figure>
+          <img src="https://www.ryanid.my.id/img/membuat-instan-artikel.jpg" />
+          <figcaption>Panduan lengkap menyusun dan membuat Artikel instan Manual menggunakan Blogspot dengan teknik import RRS Feed.</figcaption>
+        </figure>   
+
+
+      </header>
+
+
+ <!-- Tulisan Artikel nya -->
+<img src="https://www.ryanid.my.id/img/membuat-instan-artikel.jpg" alt="Cara membuat artikel instan facebook dengan Blogger" width="1280px" height="600px"/>
+
+<p>Ini adalah panduan ke 4 seputar instan artikel facebook, sudah banyak dokumen tentang artikel instan yang saya terbitkan pada blog ini. Tapi aku nggak mau banyak-banyak membahas konten tentang topik ini dalam banyak artikel, hal ini bisa bikin aku malas dan sangat membosankan. Dalam panduan kali ini aku bakalan mengajak anda bagaimana cara membuat instan artikel menggunakan Blogspot!</p>
+
+<p>Ya Blogger adalah salah satu produk Google gratis yang dimana bisa kamu gunakan untuk membuat blog yang unik dan menghasilkan uang. Dalam praktek ke depan aku bakalan sedikit menjelaskan kepada kalian, panduan ini hanyalah sebuah tahapan untuk mengedit konten kita dalam facebook instan article yang sudah kota import menggunakan RRS Mentah Blogger.</p>
+
+<p>Perlu kamu ketahui, cara ini tidak berlaku buat pengguna smartphone. Karena kreator studio facebook tidak bersahabat dengan pengguna HP, jadi persiapkan PC atau laptop kamu dengan baik. Aku sudah mencobanya menggunakan HP, dalam area teks editor koding artikel instan aku nggak bisa menghapus kode, memblok area untuk disalin/dihapus, dan juga nggak bisa mempaste teks yang sudah disalin.</p>
+
+<p>Sebelum lanjut ke tujuan pastikan  kamu sudah berhasil mendaftar dan disetujui sebagai penerbit artikel instan. Agar Feed RRS bisa dimasukan tanpa error, kamu wajib mengklaim domain sebagai domain produksi (production) bukan development. Jadi nggak perlu dicentang development mode nya, kalau masih belum bisa mengklaim domain dengan alasan mempunyai sedikit pembaca itu artinya domain kamu punya interaksi dan trafik yang lemah dari facebook.</p>
+
+<p>Sebaiknya kembangkan dahulu audiens pada domainmu agar bisa di klaim sebagai domain artikel produksi. Ingat, sebesar apapun trafik blog kamu kalau bukan dari facebook tetap bakalan di anggap sebagai minim pembaca oleh fb. Dan satu lagi aku nggak mau nulis koding disini, karena koding bikin blog ini jadi hancur. Khusus masalah koding akan aku arahin ke halaman lain lewat hyperlink / web iframe biar kita sama-sama enak.</p><br>
+
+
+
+<h2>Cara membuat Artikel instan facebook dengan Blogspot</h2>
+<p>Pertama-tama lakukan import RRS blogger ke facebook, caranya masuk ke kreator studio &raquo; Galeri Konten &raquo; Artikel Instan. Pada halaman yang dimaksud klik tab pengaturan, akan ada gigi roda disebelah kanan pada area halaman terkait. Klik gigi roda tersebut, dan akan muncul window baru mengambang di tengah layar.
+Link Kreator Studio : <span style="color:blue">bit.ly/KreatorStudioFB</span></p>
+
+
+<p>Scroll sampai kamu menemukan tombol Produksi Umpan RRS, klik tambahkan untuk menambahkan umpan RRS blogger. Disni kamu hanya perlu menambahkan umpan artikel produksi bukan umpan artikel pengembangan, umpan pengembangan tidak untuk diterbitkan sebagai instan artikel.
+Link RRS Blogger untuk instan artikel : <span style="color:blue">UrlAnda.com/feeds/posts/default?alt=rss</span></p>
+
+
+<p>Sampai disni aku anggap kalian berhasil melewatinya dengan mudah tanpa mengalami masalah. Ingat! Jika gagal dan tidak bisa mengimport RRS pastikan anda sudah mengklaim domain dengan benar sebagai domain produksi, dan pastikan anda sudah diterima sebagai penerbit instan artikel pada domain tersebut.</p><br>
+
+
+
+
+<h2>Langkah Kedua menyusun Kode Perbaikan</h2>
+<p>Pada halaman artikel produksi kamu bakalan melihar daftar judul beserta statistik yang ada. Dan pada bagian terakhir di ubah akan ada tanda seru ikon apem kebalik, nah ini artinya artikel anda mengalami Error pada instan artikel. Sekarang saatnya anda bertindak mengedit dan menghapus kode tidak berguna sesuai panduan dan arahan yang diberikan oleh facebook.</p>
+
+<p>Centang salah satu artikel yang ingin anda sunting, pada bagian atas bar halaman pilih edit. Sekarang saatnya anda berhadapan dengan apa yang saya bilang, semuanya serba manual, silakan edit kode anda agar valid instan artikel. </p>
+
+<p>Hapus kode yang tidak diizinkan, ganti h3,h4,h5 dan seterusnya jadi hanya h2 saja. Kemudian bagian elemen tag p kosong wajib dihapus, kode-kode lain juga wajib dihapus. Jika anda membuat artikel menggunakan fitur pengeditan kompose blogger aku yakin pasti lebih banyak error nya. Sebab fitur kompose blogger atau yang disebut WYSIWYG Editor blogger terlalu sering menambahkan tag HTML untuk memformat dokumen, dan dia tidak menghapusnya ketika kita kembalikan ke semula.</p>
+
+<p>Sebagai contoh jika anda menambahkan warna latar untuk sebuah paragraf, misalnya warnanya merah. Maka akan menambah tag baru &lt;span style=&quot;background-color:red&quot;&gt;, lalu jika kamu menghapus warna tersebut dengan memilih warna putih (warna yang sama dengan latar halaman) yang terjadi adalah warna red berubah jadi white. Dan kompose blogger tidak menghapus kode background color, ini sangat buruk untuk artikel yang selalu di sunting akibatnya kode HTML numpuk. Tidak ada tombol undo ketika kamu sudah mengklik tombol simpan.</p>
+
+
+<p>Hal lain yang wajib kamu lakukan adalah memasang templat halaman sesuai format instan artikel. Gunakan template kode dibawah ini dan terapkan pada artikel instan anda di facebook, ubah judulnya, ubah tanggal, ubah URL kanonis, ubah kicker, ubah footer, ubah semuanya agar sama dengan artikel anda yang dimport.</p>
+
+
+
+<p>Agar iklan tampil kamu wajib memasang kode Facebook Audience Network milikmu, jika sudah pernah mendaftar maka kamu bakalan mendapatkan kode iklan otomatis ataupun iklan native biasa untuk disematkan ke dalam instan artikel. Lihat panduan di facebook developer untuk menerapkan kode iklan pada instan artikel akses web nya disini <span style="color:blue">developers.facebook.com/docs/instant-articles/monetization/audience-network/</span>.</p>
+
+<p style="color:red">Kode Iklan otomatis di atas di ganti ya, itu hanya contoh kok. Kodenya nggak valid hehehe.</p>
+
+
+
+<p>Oke Demikianlah cara membuat artikel instan menggunakan Blogger, nikmatilah proses yang panjang bin rumit itu. Banyak orang menulis artikel lebih sederhana agar nantinya pada daftar artikel artikel kita tidak mengalami banyak error, biasanya artikel yang tidak mengalami error akan langsung terbit sebagai artikel instan secara otomatis.</p>
+
+<p>Kamu akan melihat logo mata berwarna hijau yang artinya artikel tersebut tayang. Artikel instan kamu tidak akan pernah dibaca oleh pengguna facebook bila tidak ada orang yang membagikan URL nya ke facebook.</p>
+
+<p>Itulah kenapa web berita, web portal lain menggunakan fanspage (halaman bisnis) untuk menerbitkan artikel mereka ke facebook. Orang lain yang ada di facebook mungkin akan meneruskanya dengan mengklik tombol bagikan, ini akan membuat pesan berantai di FB dan memperluas jangkauan artikel</p>.
+
+<p>Sementara pemain artikel instan personal / individu, cenderung menggunakan banyak akun facebook untuk membagikan artikel mereka. Selain menggunakan banyak akun mereka juga mempunyai kolam, kolamnya grup facebook dengan ribuan anggota di dalamnya. Jangan heran kalau earning nya besar, karena mereka gencar spam di berbagai komunitas fb menggunakan banyak akun.</p>
+
+
+<p>Mereka yang tidak punya audiens tetap punya kelemahan sendiri, earning akan menyusut dan turun bila tidak spam artikel baru. Semakin lama mereka tidak update maka domainya akan dicabut sebagai penerbit artikel instan, sebagian orang menggunakan fanspage Masak, Resep, Politik, Kesehatan, dan juga Kecantikan. Untuk meningkatkan interaksi mereka menggunakan foto-foto viral, dan disela-sela foto baru bisa menerbitkan artikel. Cukup sekian dan sampai jumpa!</p>
+
+
+
+
+<figure class="op-tracker">
+    <iframe>
+        <!-- Histats For instan Artikel -->
+<script>
+function downloadJSAtOnload(){
+ var d=document.createElement("script");
+ d.src="https://s10.histats.com/js15_as.js";
+ document.body.appendChild(d)}
+
+window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
+
+var _Hasync= _Hasync|| [];
+_Hasync.push(["Histats.start", "1,4497080,4,0,0,0,00010000"]);
+_Hasync.push(["Histats.fasi", "1"]);
+_Hasync.push(["Histats.track_hits", ""]);
+
+</script>
+
+    </iframe>
+</figure>
+
+
+
+      <footer>
+
+<!-- Keterangan Hak Cipta pada artikel -->
+        <aside>Artikel ditulis oleh Jurnalis, dan tidak diizinkan menyalin atau mempublikasikan ulang secara penuh, terkecuali mengutip sebagian informasi.</aside>
+
+<!-- Hak Cipta lebih detail -->
+        <small>Hak Cipta © Jurnalis</small>
+      </footer>
+    </article>
+  </body>
+</html>
