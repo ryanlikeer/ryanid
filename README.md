@@ -12,3 +12,15 @@ Yang menyebabkan kerugian pada kami.
 >Anda Wajib membaca secara saksama
 >Tidak boleh membuat panduan atau tutorial mengggunakan kode kami.
 
+
+
+
+# Bagian Isi File
+- JavaScript Ads
+- JavaScript Related Post Blogger
+- HTML Landing Page Redirect
+- HTML Blogger Related Post
+- PHP Code, Uploader
+- PHP Code, Grabber Blog
+- PHP Code, Blog
+- Dan Lain-lain.
